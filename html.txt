@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=60640568-e8d9-4a00-a2c0-b3f487c4814d&autoAuth=true&ctid=8a1ef6c3-8324-4103-bf4a-1328c5dc3653&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+  </body>
+</html
